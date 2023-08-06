@@ -38,8 +38,11 @@ body {
   border-radius: 40px;
   margin-top: 15px;
   color: hsl(257, 40%, 49%);
+  font-size: 20px;
   cursor: pointer;
 }
-.icon {
-  padding-top: 500px;
+.main .icon {
+  display: flex;
+  flex-direction: row;
+  padding-top: 400px;
 }
