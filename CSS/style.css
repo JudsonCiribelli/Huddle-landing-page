@@ -11,3 +11,21 @@ body {
   position: absolute;
   margin: 50px;
 }
+.main {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  padding-top: 15rem;
+}
+.main .description {
+  padding-left: 30px;
+}
+.main .description h1 {
+  color: white;
+  font-size: 50px;
+}
+.main .description p {
+  color: white;
+  font-size: 20px;
+  padding-top: 12px;
+}
