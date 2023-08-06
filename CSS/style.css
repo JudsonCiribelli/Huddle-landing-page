@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Poppins:wght@100&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -23,11 +24,13 @@ body {
 .main .description h1 {
   color: white;
   font-size: 50px;
+  font-family: "Poppins";
 }
 .main .description p {
   color: white;
   font-size: 20px;
   font-weight: 400;
+  font-family: sans-serif;
   padding-top: 12px;
 }
 .main .btn {
