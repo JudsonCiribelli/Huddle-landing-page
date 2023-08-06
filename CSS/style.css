@@ -27,5 +27,19 @@ body {
 .main .description p {
   color: white;
   font-size: 20px;
+  font-weight: 400;
   padding-top: 12px;
+}
+.main .btn {
+  text-align: center;
+  width: 180px;
+  height: 50px;
+  border: none;
+  border-radius: 40px;
+  margin-top: 15px;
+  color: hsl(257, 40%, 49%);
+  cursor: pointer;
+}
+.icon {
+  padding-top: 500px;
 }
